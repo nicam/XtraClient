@@ -1,0 +1,32 @@
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\bin\Debug\Xtra_Gui.exe.config
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\bin\Debug\Xtra_Gui.exe.manifest
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\bin\Debug\Xtra_Gui.application
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\bin\Debug\Xtra_Gui.exe
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\bin\Debug\Xtra_Gui.pdb
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\obj\Debug\WindowsFormsApplication1.XtraDesktop.resources
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\obj\Debug\WindowsFormsApplication1.LoginForm.resources
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\obj\Debug\Xtra_Client.csproj.GenerateResource.Cache
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\obj\Debug\Xtra_Gui.TrustInfo.xml
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\obj\Debug\Xtra_Gui.exe.manifest
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\obj\Debug\Xtra_Gui.application
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\obj\Debug\Xtra_Gui.exe
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\obj\Debug\Xtra_Gui.pdb
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\bin\Debug\contacts.sdf
+Z:\nicam\Dropbox\C#\Xtra_Gui\Xtra_Gui\bin\Debug\Xtra_Gui.exe.config
+Z:\nicam\Dropbox\C#\Xtra_Gui\Xtra_Gui\obj\Debug\Xtra_Gui.exe
+Z:\nicam\Dropbox\C#\Xtra_Gui\Xtra_Gui\obj\Debug\Xtra_Gui.pdb
+Z:\nicam\Dropbox\C#\Xtra_Gui\Xtra_Gui\bin\Debug\contacts.sdf
+Z:\nicam\Dropbox\C#\Xtra_Gui\Xtra_Gui\bin\Debug\Xtra_Gui.exe.manifest
+Z:\nicam\Dropbox\C#\Xtra_Gui\Xtra_Gui\bin\Debug\Xtra_Gui.application
+Z:\nicam\Dropbox\C#\Xtra_Gui\Xtra_Gui\bin\Debug\Xtra_Gui.exe
+Z:\nicam\Dropbox\C#\Xtra_Gui\Xtra_Gui\bin\Debug\Xtra_Gui.pdb
+Z:\nicam\Dropbox\C#\Xtra_Gui\Xtra_Gui\obj\Debug\ResolveAssemblyReference.cache
+Z:\nicam\Dropbox\C#\Xtra_Gui\Xtra_Gui\obj\Debug\WindowsFormsApplication1.XtraDesktop.resources
+Z:\nicam\Dropbox\C#\Xtra_Gui\Xtra_Gui\obj\Debug\WindowsFormsApplication1.LoginForm.resources
+Z:\nicam\Dropbox\C#\Xtra_Gui\Xtra_Gui\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+Z:\nicam\Dropbox\C#\Xtra_Gui\Xtra_Gui\obj\Debug\Xtra_Client.csproj.GenerateResource.Cache
+Z:\nicam\Dropbox\C#\Xtra_Gui\Xtra_Gui\obj\Debug\Xtra_Gui.TrustInfo.xml
+Z:\nicam\Dropbox\C#\Xtra_Gui\Xtra_Gui\obj\Debug\Xtra_Gui.exe.manifest
+Z:\nicam\Dropbox\C#\Xtra_Gui\Xtra_Gui\obj\Debug\Xtra_Gui.application

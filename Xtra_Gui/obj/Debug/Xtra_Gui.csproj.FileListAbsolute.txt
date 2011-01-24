@@ -1,0 +1,15 @@
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\bin\Debug\Xtra_Gui.exe
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\bin\Debug\Xtra_Gui.pdb
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\obj\Debug\Xtra_Gui.csproj.GenerateResource.Cache
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\obj\Debug\Xtra_Gui.exe
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\obj\Debug\Xtra_Gui.pdb
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\obj\Debug\WindowsFormsApplication1.XtraDesktop.resources
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\bin\Debug\Xtra_Gui.exe.config
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\bin\Debug\Xtra_Gui.exe.manifest
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\bin\Debug\Xtra_Gui.application
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\obj\Debug\Xtra_Gui.TrustInfo.xml
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\obj\Debug\Xtra_Gui.exe.manifest
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\obj\Debug\Xtra_Gui.application
+C:\Users\nicam\Documents\Visual Studio 2008\Projects\Xtra_Gui\Xtra_Gui\obj\Debug\WindowsFormsApplication1.LoginForm.resources
